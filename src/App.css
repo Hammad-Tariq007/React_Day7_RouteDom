@@ -1,0 +1,20 @@
+.app-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9fb;
+  min-height: 100vh;
+  color: #2c2c2c;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-content {
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.page-content h1 {
+  color: #5b21b6;
+  font-size: 2rem;
+}
