@@ -10,7 +10,7 @@ Includes a purple-themed navbar with active link highlighting and clean page lay
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/myapp.git
+git clone https://github.com/Hammad-Tariq007/myapp.git
 cd myapp
 npm install
 npm run dev
